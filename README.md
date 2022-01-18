@@ -1,2 +1,5 @@
 # Hello-World
-This is our SA Assignment PracticalGroup23
+
+This repository has been created as a part of our SA Assignment
+=======
+
